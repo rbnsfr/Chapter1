@@ -12,8 +12,8 @@ namespace Initials
             Console.WriteLine("RRRRRR   SSSSSSS");
             Console.WriteLine("R     R  S      ");
             Console.WriteLine("R     R  S      ");
-            Console.WriteLine("RRRRRR   SSSSSSS");
-            Console.WriteLine("R     R        S");
+            Console.WriteLine("RRRRR    SSSSSSS");
+            Console.WriteLine("R    R         S");
             Console.WriteLine("R     R        S");
             Console.WriteLine("R     R  SSSSSSS");
         }

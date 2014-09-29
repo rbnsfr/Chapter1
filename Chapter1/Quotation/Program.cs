@@ -9,6 +9,7 @@ namespace Quotation
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("\"The only thing we have to fear is fear itself.\" -Franklin D. Roosevelt");
         }
     }
 }

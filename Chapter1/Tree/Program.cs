@@ -9,6 +9,12 @@ namespace Tree
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("   x");
+            Console.WriteLine("  xxx");
+            Console.WriteLine(" xxxxx");
+            Console.WriteLine("xxxxxxx");
+            Console.WriteLine("   x");
+            Console.WriteLine("   x");
         }
     }
 }
